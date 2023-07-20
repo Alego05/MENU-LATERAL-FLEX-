@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    color: white;
+    margin: 40px;
+
+}
+
+img.pajarito{
+    display: flex;
+    justify-content: space-around ;
+    block-size: 20px;
+    margin: 20px;
+    
+}
+
+img.pajaritoreal{
+    block-size: 20px;
+    display: flex;
+    align-self: flex-start;
+    margin: 60px;
+    position: left 10px;
+}
+
+button.twit{
+    padding: 3%;
+    margin: 30px;
+    background-color: rgb(0, 162, 255);
+    font-size: large;
+    border-radius: 100px;
+}
